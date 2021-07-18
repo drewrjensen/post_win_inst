@@ -1,1 +1,1 @@
-# post_win_install
+# post_win_inst

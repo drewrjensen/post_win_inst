@@ -12,7 +12,7 @@ choco install 7zip -y
 choco install borderlessgaming -y
 choco install firefox -y
 choco install geforce-experience -y
-choco install mozilla-vpn -y
+choco install protonvpn -y
 choco install spotify -y
 choco install vscode -y
 choco install windirstat -y

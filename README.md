@@ -1,6 +1,6 @@
 # post_win_inst
 
-**A small Powershell script to automate install of a few of my most used apps, for after I inevitably have to reinstall Windows.**
+**A small Powershell script to automate install of a few of my most used apps~~, for after I inevitably have to reinstall Windows.~~**
 
 Installs and uses [Chocolatey](https://chocolatey.org/) to install the following apps:
 - [7zip](https://www.7-zip.org/)
